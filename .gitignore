@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno (contienen secretos)
+.env
+
+# Archivos de build o producción
+build/
+dist/
+
+# Archivos del sistema operativo
+.DS_Store
